@@ -94,3 +94,7 @@ button{
 button:hover{
     background: #0e4;
 }
+button a{
+    text-decoration: none;
+    color: #fff;
+}
